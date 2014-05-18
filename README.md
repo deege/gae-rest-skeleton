@@ -13,3 +13,8 @@ Returns the string "REST API is available."  This is used to verify that REST is
 
 Returns the Server build information.  This relies on the ServerVersion class contained 
 in [Protocols Resources](https://github.com/deege/protocols-resources)
+
+This skeleton is for 
+*Google App Engine 1.9.4
+*Java 7
+*Jersey 1.17.1
