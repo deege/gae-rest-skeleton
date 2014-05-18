@@ -15,6 +15,6 @@ Returns the Server build information.  This relies on the ServerVersion class co
 in [Protocols Resources](https://github.com/deege/protocols-resources)
 
 This skeleton is for 
-*Google App Engine 1.9.4
-*Java 7
-*Jersey 1.17.1
+* Google App Engine 1.9.4
+* Java 7
+* Jersey 1.17.1
